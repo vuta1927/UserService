@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.deps.json
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.dll
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\ivydrive-207109-5d7ca92ee3ff.json
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.pdb
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.dll
+C:\Users\Admin\Documents\GitHub\Google\UserService\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.pdb
